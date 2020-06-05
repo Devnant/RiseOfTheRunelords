@@ -131,13 +131,13 @@ XP is shown as "XP L7/L8"
     - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) (instead of the weak template) to the Donkey Rats. 
   - **Loot:** TBD
 
+!Changed this becasue there's Tendriculous now on Bestiary 2 and SRD.
 ### A14. Tendriculous Lair (XP 40/30, trivial threat)
   - **Creatures:** 
-    - [Elite : +20 HP, +2 to AC and most rolls](http://2e.aonprd.com/Rules.aspx?ID=790): [Muck Graul - Awakened Tree](https://2e.aonprd.com/Monsters.aspx?ID=28)
+    - [Muck Graul - Tendriculous](https://2e.aonprd.com/Monsters.aspx?ID=823)
   - **Encounter Notes:**
     - Can become a severe threat if combined with Hucker and the Donkey Rats
-    - Party level 8: Apply the [double Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
-    - Awakened tree seems specifically designed for this purpose (it even matches the Fey color text)
+    - Party level 8: Apply the [Elite template](http://2e.aonprd.com/Rules.aspx?ID=790) 
   - **Loot:** TBD
 
 ### A15. The Graul Fortune
